@@ -1,0 +1,3 @@
+Let's start with some basic pwn.
+
+nc 34.143.158.202 4096
